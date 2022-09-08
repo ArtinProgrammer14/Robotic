@@ -2,10 +2,4 @@
 # The Programs What I Used to Configure & Boot my Robots are Available Here! </br>
 # Trust me!
 # Bye...
-
-
-
-
-
-@Artin.Programmer
-
+<b> Artin.Programmer <b>
